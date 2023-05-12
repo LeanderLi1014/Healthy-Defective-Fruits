@@ -9,7 +9,7 @@ The developed data set consists of 5,000 real and synthetic images of fresh appl
 # Dataset Mangoes Images
 The developed data set consists of 5,000 real and synthetic images of fresh mangoes, and 5,000 real and synthetic images of mangoes with defects.
 
-![Image text](https://github.com/luischuquim/BananaRipeness/blob/main/27277.jpg)
+![Image text](mango.jpg)
 
 
 For paper reference (Bibtex)
