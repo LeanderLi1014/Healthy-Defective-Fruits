@@ -7,8 +7,8 @@ The developed data set consists of 5,000 real and synthetic images of fresh appl
 
 For paper reference (Bibtex)
 
-+BEGIN_SRC
-conference{visapp23,
+#+BEGIN_SRC
+@conference{visapp23,
 author={Luis Chuquimarca. and Boris Vintimilla. and Sergio Velastin.},
 title={Banana Ripeness Level Classification Using a Simple CNN Model Trained with Real and Synthetic Datasets},
 booktitle={Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 5: VISAPP, (VISIGRAPP 2023)},
@@ -20,7 +20,7 @@ doi={10.5220/0011654600003417},
 isbn={978-989-758-634-7},
 issn={2184-4321},
 }
-+END_SRC
+#+END_SRC
 
 # Dataset Mangoes Images
 The developed data set consists of 5,000 real and synthetic images of fresh mangoes, and 5,000 real and synthetic images of mangoes with defects.
